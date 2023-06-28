@@ -1,0 +1,65 @@
+body {
+        text-align: center;
+        background-image: url(lines.jpeg);
+        font-family: sans-serif;
+        font-weight: 500px;
+        font-size: large;
+
+      }
+
+      body {
+       width: 100vw;
+       height: 100vh;
+       background-image: url('https://www.worldatlas.com/r/w1200/upload/19/32/19/shutterstock-1227184378.jpg');
+       background-size: cover;
+      
+      }
+      
+      h3 {
+        color : #090909;
+        font-weight: 1000px;
+        font-size: 100px;
+        margin: 80px 0px 40px;
+        text-shadow: #050505;
+
+      }
+      
+      h5 {
+          color:#070707;
+          margin-top: 1px;   
+      }
+      
+      #clockdiv {
+        font-family: sans-serif;
+        color: #060606;
+        display: inline-block;
+        font-weight: 100;
+        text-align: center;
+        font-size: 30px;
+
+      }
+
+      #clockdiv > div {
+      padding: 10px;
+      border-radius: 3px;
+      background: #fffdfd;
+      display: inline-block;
+
+      }
+
+      #clockdiv div > span {
+      padding: 15px;
+      border-radius: 3px;
+      background: #fefdfd;
+      display: inline-block;
+
+      }
+
+      
+     .form {
+      max-width: 600px;
+      margin: 0 auto;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+
+     }
